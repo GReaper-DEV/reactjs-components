@@ -1,5 +1,4 @@
-import ButtonPage from "./ButtonPage"
-import Accordion from "../components/Accordion"
+import Accordion from "../components/Accordion";
 
 function AccordionPage(){
 
@@ -21,10 +20,7 @@ function AccordionPage(){
         },
     ]
 
-    return <>
-        <ButtonPage />
-        <Accordion items={items} />
-    </>
+    return <Accordion items={items} />
 }
 
 export default AccordionPage;
