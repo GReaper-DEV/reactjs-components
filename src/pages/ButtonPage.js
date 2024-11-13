@@ -6,7 +6,6 @@ function ButtonPage(){
 
 
     const handleClick = () => {
-        console.log('Clicked me!')
     }
 
     return <div>

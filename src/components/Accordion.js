@@ -31,7 +31,7 @@ function Accordion({items}) {
     });
 
     return (
-        <div>
+        <div className="w-64">
             {renderedItems}
         </div>
     );
