@@ -1,4 +1,4 @@
-# Reason for this rep existance
+# Reason for this rep existence
 
 This is a repository to showcase anything I have done related to ReactJS.
 
