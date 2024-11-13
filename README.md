@@ -9,6 +9,6 @@ This is a repository to showcase anything I have done related to ReactJS.
 <li>Dropdown</li>
 <li>Provider</li>
 <li>Route</li>
-<li>etc.</li>
+<li>etc... (feel free to navigate through these files)</li>
 </ul>
 
