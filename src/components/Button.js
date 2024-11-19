@@ -4,7 +4,6 @@ import classNames from 'classnames';
 
 function Button({
                     children,
-                    text,
                     primary,
                     secondary,
                     success,
